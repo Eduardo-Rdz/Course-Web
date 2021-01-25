@@ -1,2 +1,2 @@
 # Course-Web
-Coursera Web repository
+Course Web repository
